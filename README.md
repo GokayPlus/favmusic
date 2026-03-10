@@ -1,3 +1,6 @@
+### Use [SuperBoard](https://github.com/GokayPlus/superboard) for Better Experience.
+
+
 [Vencord Plugin](https://docs.vencord.dev/installing/custom-plugins/)
 
 # FavMusic
@@ -24,3 +27,4 @@ This plugin uses the following external APIs:
 
 - **[iTunes Search API](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/)** — Apple's public API used to search for songs and retrieve metadata (title, artist, album art, preview URL). No authentication is required.
 - **Custom sync server** — A self-hosted server used to store and retrieve users' favorite music lists by Discord user ID. No personal data beyond your Discord user ID and selected track metadata is transmitted.
+
